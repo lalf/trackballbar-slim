@@ -13,7 +13,7 @@ TrackBallBar(未リリース)の機能削減、サイズ変更版です。
 - LEDインジケータがあり、発光色で使用レイヤーがわかります。
 - Vialによるカスタマイズが可能です。8レイヤーまで対応します。
 - MX互換キースイッチの交換が可能です。
-- 19mm球使用時で30.9mm、25mm球で36.6mm(実測)の高さです。
+- 19mm球使用時で30.9mm、25mm球で36.6mm(実測)の高さです。<BR>
 ![](imgs/tbbs_keyboard_front_19.jpg)
 ![](imgs/tbbs_keyboard_front_25.jpg)
 
